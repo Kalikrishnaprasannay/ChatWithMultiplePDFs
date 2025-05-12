@@ -1,7 +1,3 @@
-# ChatWithMultiplePDFs
-Here's a **GitHub-friendly README.md** for your project:
-
----
 
 # Chat with Multiple PDFs (Offline & Free Version)
 
