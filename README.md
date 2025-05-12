@@ -99,10 +99,6 @@ Feel free to fork the repository and submit pull requests. If you find bugs or h
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
+![Screenshot (181)](https://github.com/user-attachments/assets/0ec7d54b-46a5-48c3-9155-ac8d67772197)
 
 Let me know if you want to adjust any sections or add more details!
